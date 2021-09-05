@@ -1,14 +1,11 @@
 {
-  "name": "boilerplate-2021",
+  "name": "react-vite-template",
   "version": "1.0.0",
-  "description": "Yet another boilerplate for TypeScript and React developers.",
+  "description": "react vite template",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
   "types": "dist/es/index.d.js",
-  "author": "Henry Li <henry1943@163.com>",
-  "repository": {
-    "url": "https://github.com/magiccube/boilerplate-2021"
-  },
+  "author": "lzn <lznbuild@163.com>",
   "license": "MIT",
   "scripts": {
     "build": "npm run build:vite",
